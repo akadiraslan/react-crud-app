@@ -1,3 +1,6 @@
+Kodun bazı kısımlarını ve Css kısımlarını https://www.digitalocean.com/community/tutorials/react-crud-context-hooks tutorialından faydalanarak yaptım.
+# Eklenecekler
+> Login ve Sign Up
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
