@@ -1,4 +1,13 @@
 Kodun bazı kısımlarını ve Css kısımlarını https://www.digitalocean.com/community/tutorials/react-crud-context-hooks tutorialından faydalanarak yaptım.
+
+Technologies:
+
+- HTML/CSS
+- Tailwind.css
+- React
+- React Hooks
+- React Router Dom
+- Context Api
 # Eklenecekler
 > Login ve Sign Up
 # Getting Started with Create React App
